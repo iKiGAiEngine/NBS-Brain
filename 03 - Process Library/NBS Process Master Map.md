@@ -10,57 +10,59 @@ classification: internal-framework
 
 ## End-to-End Operating Flow
 
-1. Opportunity intake
-2. Bid/no-bid decision
-3. Estimate setup
-4. Plan and specification review
-5. Quantity takeoff
-6. Vendor RFQ and follow-up
-7. Quote leveling
-8. Proposal creation and approval
-9. Addendum and revision management
-10. Award review and handoff
-11. Project budget and procurement planning
-12. Submittals and approvals
-13. Requisitions and purchase orders
-14. Vendor acknowledgment and lead-time control
-15. Delivery and logistics coordination
-16. Change management
-17. Invoice matching and financial control
-18. Forecasting and reporting
-19. Closeout and lessons learned
+### Opportunity and Estimating
+
+1. [[Bid Invitation Intake]]
+2. [[Bid-No-Bid Decision]]
+3. [[Estimate Setup]]
+4. [[Plan and Specification Review]]
+5. [[Quantity Takeoff]]
+6. [[Vendor RFQ and Follow-Up]]
+7. [[Vendor Quote Leveling]]
+8. [[Proposal Preparation]]
+9. [[Proposal Review and Approval]]
+10. [[Addendum and Revision Management]]
+11. [[Award and Project Handoff]]
+
+### Project Execution — Next Build Phase
+
+12. Project budget and procurement planning
+13. Submittals and approvals
+14. Requisitions and purchase orders
+15. Vendor acknowledgment and lead-time control
+16. Delivery and logistics coordination
+17. Change management
+18. Invoice matching and financial control
+19. Forecasting and reporting
+20. Closeout and lessons learned
 
 ## Required Definition for Each Process
 
 Every process note must define:
 
-- purpose
-- trigger
+- purpose and trigger
 - required inputs
 - owner and participants
-- standard steps
-- decision points
+- standard steps and decision points
 - business rules and approvals
 - exceptions and escalation triggers
-- outputs
-- definition of complete
+- outputs and definition of complete
 - systems and source-of-truth records
 - performance measures
 - automation opportunities
 - upstream and downstream processes
 
-## First Processes to Detail
+## Next Processes to Detail
 
-- [[Bid Invitation Intake]]
-- [[Vendor RFQ and Follow-Up]]
-- [[Proposal Creation and Approval]]
-- [[Award and Project Handoff]]
-- [[Purchase Order Creation]]
-- [[Vendor Acknowledgment Review]]
-- [[Delivery Tracking]]
-- [[Three-Way Invoice Matching]]
-- [[Change Order Management]]
-- [[Project Closeout and Lessons Learned]]
+- Project Buyout and Planning
+- Submittal Management
+- Purchase Order Creation
+- Vendor Acknowledgment Review
+- Delivery Tracking
+- Change Order Management
+- Three-Way Invoice Matching
+- Project Forecasting
+- Project Closeout and Lessons Learned
 
 ## Process Design Rule
 
